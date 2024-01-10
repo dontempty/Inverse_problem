@@ -29,7 +29,7 @@
 |PINN|0.27391|0.09346|
 
 ## 4. Conculsion
-explicit euler 보다는 implicit euler 의 성능이 더 좋은것을 관찰할 수 있다.
+explicit euler 보다는 implicit euler 의 성능이 더 좋은것을 관찰할 수 있다.  
 loss 함수가 convex임을 증명했고 parameter들의 explicit한 표현에서 분모는 항상 0이상임을 증명했다.
 
 ## 5. Reference
