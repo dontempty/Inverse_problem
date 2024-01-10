@@ -6,4 +6,5 @@
 ### $\frac{dS}{dt} = -\frac{\beta IS}{N}$  
 ### $\frac{dI}{dt} = \frac{\beta IS}{N}-\gamma I$  
 ### $\frac{dR}{dt} = \gamma I$
+### $\frac{dS}{dt}+\frac{dI}{dt}+\frac{dR}{dt} = 0$
 
