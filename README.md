@@ -11,6 +11,7 @@
 ## 2. Parameter estimation (without noise)
 ![4](https://github.com/dontempty/Inverse_problem/assets/155451345/fbb865cc-57e3-441d-bed6-62d39fdce041)
 |    |beta|gamma|
+|---|---|---|
 |real|0.25|0.1|
 |first-order forward differences|0.37429|0.22289|
 |first-order backward differences|0.25153|0.09894|
@@ -20,6 +21,7 @@
 ## 3. Parameter estimation (with noise)
 ![5](https://github.com/dontempty/Inverse_problem/assets/155451345/191e6e90-1273-4265-b26e-1413c010cfc3)
 |    |beta|gamma|
+|---|---|---|
 |real|0.25|0.1|
 |first-order forward differences|0.45016|0.25932|
 |first-order backward differences|0.27620|0.08942|
