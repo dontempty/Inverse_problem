@@ -7,4 +7,5 @@
 ### $\frac{dR}{dt} = \gamma I$
 ### $\frac{dS}{dt}+\frac{dI}{dt}+\frac{dR}{dt} = 0$
 
-## 2. parameter estimation (without noise)![4](https://github.com/dontempty/Inverse_problem/assets/155451345/fbb865cc-57e3-441d-bed6-62d39fdce041)
+## 2. parameter estimation (without noise)
+![4](https://github.com/dontempty/Inverse_problem/assets/155451345/fbb865cc-57e3-441d-bed6-62d39fdce041)
